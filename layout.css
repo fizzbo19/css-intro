@@ -1,16 +1,24 @@
 .video{
-	margin-bottom: 100px;
-	float:left
+	margin-bottom:50px;
+	float:left;
 	width:33%;
 }
 
 
 .video{
-	padding: 10px;
+	padding:10px;
 	background-color:#efefef;
 
 }
 
 .video img {
-	width:100px;
+	width:100%;
+}
+
+p.descri[ption{
+	
+}
+
+.clr {
+	clear:both;
 }
