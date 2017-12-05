@@ -1,0 +1,18 @@
+body{
+	font-family: Arial;
+	color:#989898;
+		li {
+			font-weight:bold;
+			font-size:16px;
+			color:#AABBCC;
+		}
+
+}
+
+#active {
+	color:#00FF00;
+}
+
+#finished li {
+	color:#0000ff;
+}
